@@ -13,12 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like data 🔮
 
-AI ◦ Analytics ◦ Market Charts
 
-Linux
 
-Efficiency
+
+
+
+
+
+
+  <p align="center">
+    <samp>
+      I like data 🔮
+      <br>
+        AI ◦ Analytics ◦ Market ChartsAI ◦ Analytics ◦ Market Charts
+      <br>
+      Linux
+      <br>
+      Efficiency
+    </samp>
+  </p>
+
+<br>
 
 
