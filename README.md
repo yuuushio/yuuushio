@@ -14,23 +14,15 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
-
-
-
-
-
   <p align="center">
     <samp>
-      I like data 🔮
+      🔮 I like <b>data</b> 🔮
       <br>
-        AI ◦ Analytics ◦ Market ChartsAI ◦ Analytics ◦ Market Charts
+        AI ◦ Analytics ◦ Market Charts
       <br>
       Linux
       <br>
-      Efficiency
+      <b> Efficiency </b>
     </samp>
   </p>
 
