@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <samp>
       🔮 I like <b>data</b> 🔮
       <br>
-        AI ◦ Analytics ◦ Market Charts
+        AI ◦ Analytics ◦ Markets
       <br>
       Linux
       <br>
