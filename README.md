@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
   <p align="center">
     <samp>
-      🔮 I like <b>Data</b> 🔮
+      🔮 I like Data 🔮
       <br>
       <small> AI ◦ Analytics ◦ Markets </small>
       <br>
