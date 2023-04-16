@@ -23,7 +23,8 @@ Here are some ideas to get you started:
       <br>
       Linux
       <br>
-      <b> Efficiency </b>
+      <br>
+      Efficiency
     </samp>
   </p>
 
