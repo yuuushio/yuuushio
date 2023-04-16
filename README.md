@@ -20,6 +20,8 @@ Here are some ideas to get you started:
       <br>
       <small> AI ◦ Analytics ◦ Markets </small>
       <br>
+      🎓 C.S.
+      <br>
       <br>
       Linux
       <br>
