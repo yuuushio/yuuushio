@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
   <p align="center">
     <samp>
-      🔮 Data 🔮
-      <br>
-      <br>
       🎓 C.S.
+      <br>
+      <br>
+      Data
       <br>
       <br>
       Linux
