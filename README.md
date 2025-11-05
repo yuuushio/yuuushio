@@ -19,13 +19,7 @@ Here are some ideas to get you started:
       🎓 C.S.
       <br>
       <br>
-      Data
-      <br>
-      <br>
-      Linux
-      <br>
-      <br>
-      Efficiency
+      Data // Linux // Efficiency
     </samp>
   </p>
 
